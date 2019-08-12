@@ -1,1 +1,28 @@
 /* You can add global styles to this file, and also import other style files */
+
+.searchfilter{margin-bottom: 10px}
+th,.title {color: grey;}
+.truncate {
+    white-space: nowrap; 
+  width: 310px; 
+  overflow: hidden;
+  text-overflow:ellipsis;
+  }
+  /* enable absolute positioning */
+.inner-addon {
+  position: relative;
+}
+
+/* style glyph */
+.inner-addon .glyphicon {
+  position: absolute;
+  padding: 10px;
+  pointer-events: none;
+}
+
+/* align glyph */
+.right-addon .glyphicon { right: 0px;}
+
+/* add padding  */
+.right-addon input { padding-right: 30px; }
+

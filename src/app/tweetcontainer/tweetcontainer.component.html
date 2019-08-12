@@ -1,0 +1,19 @@
+
+<div class="container">
+  <h2>Angular Twitter</h2>
+     <ul class="nav nav-tabs">
+      <li class="active"><a data-toggle="tab" href="#hashtag">Hashtag search</a></li>
+      <li><a data-toggle="tab" href="#user">User search</a></li>
+    </ul>
+  
+    <div class="tab-content">
+      <div id="hashtag" class="tab-pane fade in active">
+          <app-tweets [title]="'Hashtag Search'" [url]="'hashtags/Python?pages_limit=3&wait=0'" [filter]="'hashtag'" [placeholder]="'Search by Hashtag'" ></app-tweets>
+      </div>
+      <div id="user" class="tab-pane fade">
+          <app-tweets [title]="'User Search'" [url]="'users/Python?pages_limit=3&wait=0'" [filter]="'user'" [placeholder]="'Search by User'" ></app-tweets>
+      </div>
+     
+    </div>
+  </div>
+    

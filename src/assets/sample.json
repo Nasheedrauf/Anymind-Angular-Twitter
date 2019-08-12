@@ -1,0 +1,981 @@
+[
+    {
+      "account": {
+        "fullname": "Rebecca Vickery", 
+        "href": "/vickdata", 
+        "id": 704680369812054016
+      }, 
+      "date": "6:03 AM - 7 Aug 2019", 
+      "hashtags": [
+        "#python", 
+        "#machinelearning"
+      ], 
+      "likes": 462, 
+      "replies": 8, 
+      "retweets": 146, 
+      "text": "I have been working with classifiers a lot lately and looking for better ways to evaluate them. I have written up my review of four of the best #python libraries I've found for interpreting #machinelearning (yellowbrick, ELI5, MLxtend and Lime). https://tinyurl.com/y374aj2c\u00a0"
+    }, 
+    {
+      "account": {
+        "fullname": "Randy Olson", 
+        "href": "/randal_olson", 
+        "id": 49413866
+      }, 
+      "date": "8:42 AM - 5 Aug 2019", 
+      "hashtags": [
+        "#Python", 
+        "#programming"
+      ], 
+      "likes": 305, 
+      "replies": 35, 
+      "retweets": 93, 
+      "text": "The MATLAB folks were a little late on their April Fools joke this year. #Python #programming\n https://www.mathworks.com/products/matlab/matlab-vs-python.html\u00a0\u2026pic.twitter.com/NWx8XtYThG"
+    }, 
+    {
+      "account": {
+        "fullname": "Samuel Hinton", 
+        "href": "/samreayh", 
+        "id": 956324885583704064
+      }, 
+      "date": "12:48 PM - 7 Aug 2019", 
+      "hashtags": [
+        "#python", 
+        "#sciencetwitter", 
+        "#astronomy"
+      ], 
+      "likes": 127, 
+      "replies": 4, 
+      "retweets": 51, 
+      "text": "A fun little visualisation from the goodness of matplotlib showing the position of individual galaxies on the sky. The cosmic web just visible! #python #sciencetwitter #astronomy \n\nSDSS (purple), 2df (red), WiggleZ (blue), GAMA (green), 6dF (yellow), and OzDES+SN (gold)pic.twitter.com/pPEOkMrPQi"
+    }, 
+    {
+      "account": {
+        "fullname": "Randy Olson", 
+        "href": "/randal_olson", 
+        "id": 49413866
+      }, 
+      "date": "4:39 PM - 5 Aug 2019", 
+      "hashtags": [
+        "#Python"
+      ], 
+      "likes": 205, 
+      "replies": 4, 
+      "retweets": 45, 
+      "text": "#Python community in response to the MATLAB article: pic.twitter.com/hFoBNoVYwi"
+    }, 
+    {
+      "account": {
+        "fullname": "DataCamp", 
+        "href": "/DataCamp", 
+        "id": 1568606814
+      }, 
+      "date": "11:00 AM - 4 Aug 2019", 
+      "hashtags": [
+        "#NumPy", 
+        "#Python"
+      ], 
+      "likes": 62, 
+      "replies": 0, 
+      "retweets": 21, 
+      "text": "Get your copy of our #NumPy cheat sheet in #Python!  https://www.datacamp.com/community/blog/python-numpy-cheat-sheet\u00a0\u2026pic.twitter.com/JoxQjPlVDw"
+    }, 
+    {
+      "account": {
+        "fullname": "pyrrrr", 
+        "href": "/pyrael", 
+        "id": 23590990
+      }, 
+      "date": "11:28 AM - 10 Aug 2019", 
+      "hashtags": [
+        "#python"
+      ], 
+      "likes": 5, 
+      "replies": 0, 
+      "retweets": 3, 
+      "text": "Playing with some UV modifier in Cinema 4D #python pic.twitter.com/XaL6g4Lekl"
+    }, 
+    {
+      "account": {
+        "fullname": "Raymond Hettinger", 
+        "href": "/raymondh", 
+        "id": 14159138
+      }, 
+      "date": "12:51 PM - 6 Aug 2019", 
+      "hashtags": [
+        "#python"
+      ], 
+      "likes": 363, 
+      "replies": 7, 
+      "retweets": 82, 
+      "text": "#python 3.8 news:  Dict comprehensions have been synced-up with dict literals in that the key is computed first and the value second:\n\n>>> cast = {input('role? '): input('actor? ') for i in range(2)}\nrole? King Arthur\nactor? Chapman\nrole? Black Knight\nactor? Cleese"
+    }, 
+    {
+      "account": {
+        "fullname": "Python Programmers", 
+        "href": "/python_devv", 
+        "id": 3314148722
+      }, 
+      "date": "1:02 AM - 8 Aug 2019", 
+      "hashtags": [
+        "#python", 
+        "#programming"
+      ], 
+      "likes": 14, 
+      "replies": 0, 
+      "retweets": 10, 
+      "text": "The Complete Python 3 Masterclass - From Beginner To Pro\n\n\u261e  http://bit.ly/337F9Rj\u00a0\n#python #programmingpic.twitter.com/xa6A6hozk4"
+    }, 
+    {
+      "account": {
+        "fullname": "JD Long", 
+        "href": "/CMastication", 
+        "id": 43186378
+      }, 
+      "date": "6:34 AM - 3 Aug 2019", 
+      "hashtags": [
+        "#rstats", 
+        "#python"
+      ], 
+      "likes": 69, 
+      "replies": 2, 
+      "retweets": 10, 
+      "text": "The best documentation for using rpy2 for transferring data frames to/from #rstats from #python is in the Pandas documents, not rpy2. Oddly enough.  https://pandas.pydata.org/pandas-docs/version/0.22/r_interface.html\u00a0\u2026pic.twitter.com/V1uYcZCXQU"
+    }, 
+    {
+      "account": {
+        "fullname": "Papillon\u00a0\ud83e\udd16", 
+        "href": "/jezzyubeezy", 
+        "id": 1142752820501929984
+      }, 
+      "date": "1:59 PM - 10 Aug 2019", 
+      "hashtags": [
+        "#100daysofcode", 
+        "#python"
+      ], 
+      "likes": 3, 
+      "replies": 0, 
+      "retweets": 4, 
+      "text": "Day 12: Function Decorators- are design pattern that enhance functions without changing its definition.Using the '@\" tells python to decorate the function with the named decorator. It calls the wrapper function and can modify the argument passed.\n#100daysofcode #python pic.twitter.com/55v2wXZsBu"
+    }, 
+    {
+      "account": {
+        "fullname": "Pycon Africa", 
+        "href": "/pyconafrica", 
+        "id": 927925400189235200
+      }, 
+      "date": "3:50 AM - 7 Aug 2019", 
+      "hashtags": [
+        "#PyConAfrica", 
+        "#Python"
+      ], 
+      "likes": 44, 
+      "replies": 0, 
+      "retweets": 17, 
+      "text": "Data Visualization by Rising Odegua - Representing data in graphical or pictorial forms which makes it easy to understand and work with. \n#PyConAfrica\n#Python pic.twitter.com/bcQV9TXq7C"
+    }, 
+    {
+      "account": {
+        "fullname": "Pentester Academy", 
+        "href": "/SecurityTube", 
+        "id": 20525891
+      }, 
+      "date": "4:30 PM - 7 Aug 2019", 
+      "hashtags": [
+        "#python"
+      ], 
+      "likes": 3, 
+      "replies": 0, 
+      "retweets": 4, 
+      "text": "Learn to script attacks & automate tasks in #python  http://bit.ly/1gyrZDi\u00a0 Grasp the very basics with 12hrs of videos & exercise downloads!pic.twitter.com/NsfyHsrS05"
+    }, 
+    {
+      "account": {
+        "fullname": "Loooorena \u00a0\ud83d\udc2f \"La Tigresa\" \u00a0\ud83d\udc2f Mesa @ #PyConAfrica", 
+        "href": "/loooorenanicole", 
+        "id": 21767394
+      }, 
+      "date": "3:08 AM - 9 Aug 2019", 
+      "hashtags": [
+        "#Python", 
+        "#Python", 
+        "#Python", 
+        "#Python", 
+        "#PyConAfrica"
+      ], 
+      "likes": 81, 
+      "replies": 2, 
+      "retweets": 33, 
+      "text": "I\u2019m so excited what we at @thepsf are supporting as part of 1st #Python in education grants effort:\n\n1. #Python on Android via @PyBeeWare \n2. Website / audit of #Python education tools\n3. Localizing traceback #Python error messages for accessibility\n\n#PyConAfrica @ewa_jodlowskapic.twitter.com/WBvVIw2mdd"
+    }, 
+    {
+      "account": {
+        "fullname": "TechRepublic", 
+        "href": "/TechRepublic", 
+        "id": 6486602
+      }, 
+      "date": "9:00 AM - 6 Aug 2019", 
+      "hashtags": [
+        "#Python", 
+        "#programminglanguage", 
+        "#longreads"
+      ], 
+      "likes": 5, 
+      "replies": 0, 
+      "retweets": 4, 
+      "text": "#Python is eating the world: How one developer's side project became the hottest #programminglanguage on the planet  https://tek.io/2yFyAqP\u00a0 by @NickJHeath #longreadspic.twitter.com/vzC2MuybRR"
+    }, 
+    {
+      "account": {
+        "fullname": "Changeset Consulting", 
+        "href": "/ChangesetLLC", 
+        "id": 4082164823
+      }, 
+      "date": "7:17 AM - 5 Aug 2019", 
+      "hashtags": [
+        "#Python"
+      ], 
+      "likes": 98, 
+      "replies": 8, 
+      "retweets": 79, 
+      "text": "#Python 2 reaches End of Life status on January 1, 2020. Lots of institutions haven't even HEARD about that, much less prepped for migration. So Changeset Consulting has just started working with the PSF to get the word out about the sunsetting:\n\n https://www.harihareswara.net/sumana/2019/08/05/0\u00a0\u2026pic.twitter.com/ARF8DBAehf"
+    }, 
+    {
+      "account": {
+        "fullname": "DataCamp", 
+        "href": "/DataCamp", 
+        "id": 1568606814
+      }, 
+      "date": "11:01 AM - 10 Aug 2019", 
+      "hashtags": [
+        "#Python", 
+        "#chatbot"
+      ], 
+      "likes": 37, 
+      "replies": 1, 
+      "retweets": 12, 
+      "text": "Building Chatbots in #Python! Some chat systems are designed to be useful, while others are just good fun. You will build one of each, and finally put everything together to make a helpful, friendly #chatbot!  https://www.datacamp.com/courses/building-chatbots-in-python\u00a0\u2026pic.twitter.com/m739FQq04d"
+    }, 
+    {
+      "account": {
+        "fullname": "Webtopp Digital Solutions", 
+        "href": "/webtopp", 
+        "id": 1127631633614434304
+      }, 
+      "date": "10:43 AM - 10 Aug 2019", 
+      "hashtags": [
+        "#programmer", 
+        "#programminglife", 
+        "#codinglife", 
+        "#code", 
+        "#html", 
+        "#JavaScript", 
+        "#Python", 
+        "#Java", 
+        "#PHP", 
+        "#USA", 
+        "#UK", 
+        "#Singapore", 
+        "#NewZealand", 
+        "#Australia"
+      ], 
+      "likes": 14, 
+      "replies": 0, 
+      "retweets": 9, 
+      "text": "Programmer's memes...\n#programmer #programminglife #codinglife #code #html #JavaScript #Python #Java #PHP #USA #UK #Singapore #NewZealand #Australiapic.twitter.com/jBdfuadIhs"
+    }, 
+    {
+      "account": {
+        "fullname": "Software Developers", 
+        "href": "/Soft__Developer", 
+        "id": 738920524068179969
+      }, 
+      "date": "11:18 PM - 10 Aug 2019", 
+      "hashtags": [
+        "#python", 
+        "#programming"
+      ], 
+      "likes": 2, 
+      "replies": 0, 
+      "retweets": 2, 
+      "text": "Introduction to Python for Beginners\n\n\u261e  https://ift.tt/2FAmN1z\u00a0\n#python #programmingpic.twitter.com/YTfjJKrCYF"
+    }, 
+    {
+      "account": {
+        "fullname": "Python Visual Studio Code", 
+        "href": "/pythonvscode", 
+        "id": 958940397996204032
+      }, 
+      "date": "4:24 PM - 6 Aug 2019", 
+      "hashtags": [
+        "#Python"
+      ], 
+      "likes": 345, 
+      "replies": 2, 
+      "retweets": 136, 
+      "text": "The August release of the #Python extension for \n@code is here!  Try out Jupyter Notebook cell debugging and check out improvements to auto-indentation and to the Python Language Server, as well as our new Insiders program. Learn more here:  https://devblogs.microsoft.com/python/python-in-visual-studio-code-august-2019-release/\u00a0\u2026pic.twitter.com/ybRIHwvC9I"
+    }, 
+    {
+      "account": {
+        "fullname": "\u00a0\ud83d\udc0dm a m i s n e k\u00a0\ud83d\udc0d", 
+        "href": "/cyber_satanic", 
+        "id": 1151557421061591040
+      }, 
+      "date": "7:12 PM - 8 Aug 2019", 
+      "hashtags": [
+        "#Python"
+      ], 
+      "likes": 1, 
+      "replies": 0, 
+      "retweets": 1, 
+      "text": "This is Sally \nShe is a big big girl  #Python pic.twitter.com/P06Z0ZXWtF"
+    }, 
+    {
+      "account": {
+        "fullname": "I am a Developer", 
+        "href": "/i_am_adeveloper", 
+        "id": 3243878690
+      }, 
+      "date": "9:30 PM - 9 Aug 2019", 
+      "hashtags": [
+        "#Python", 
+        "#Morioh"
+      ], 
+      "likes": 10, 
+      "replies": 0, 
+      "retweets": 8, 
+      "text": "3 techniques for Python Inversion of Control\n\u261e  https://morioh.com/p/82237e5488a8\u00a0\n#Python #Morioh pic.twitter.com/Rdj9IvVJbE"
+    }, 
+    {
+      "account": {
+        "fullname": "Pycon Africa", 
+        "href": "/pyconafrica", 
+        "id": 927925400189235200
+      }, 
+      "date": "5:18 AM - 9 Aug 2019", 
+      "hashtags": [
+        "#PyConAfrica19", 
+        "#python"
+      ], 
+      "likes": 18, 
+      "replies": 0, 
+      "retweets": 8, 
+      "text": "Dustin Haffner  @dhaffner \nCurrying in Python: How to hack new syntax into your favorite language. \nCurrying is technique of translating the evaluation of a function that takes multiple arguments into evaluating a sequence of functions. \n#PyConAfrica19\n#python pic.twitter.com/qu0l9QmleE"
+    }, 
+    {
+      "account": {
+        "fullname": "Loooorena \u00a0\ud83d\udc2f \"La Tigresa\" \u00a0\ud83d\udc2f Mesa @ #PyConAfrica", 
+        "href": "/loooorenanicole", 
+        "id": 21767394
+      }, 
+      "date": "3:08 AM - 9 Aug 2019", 
+      "hashtags": [
+        "#Python", 
+        "#Python", 
+        "#Python", 
+        "#Python", 
+        "#PyConAfrica"
+      ], 
+      "likes": 81, 
+      "replies": 2, 
+      "retweets": 33, 
+      "text": "I\u2019m so excited what we at @thepsf are supporting as part of 1st #Python in education grants effort:\n\n1. #Python on Android via @PyBeeWare \n2. Website / audit of #Python education tools\n3. Localizing traceback #Python error messages for accessibility\n\n#PyConAfrica @ewa_jodlowskapic.twitter.com/WBvVIw2mdd"
+    }, 
+    {
+      "account": {
+        "fullname": "Matthew Hendrickson", 
+        "href": "/mjhendrickson", 
+        "id": 404107193
+      }, 
+      "date": "1:11 PM - 8 Aug 2019", 
+      "hashtags": [
+        "#python"
+      ], 
+      "likes": 87, 
+      "replies": 0, 
+      "retweets": 14, 
+      "text": "Interested in giving #python a whirl in @code. Here's a quick intro on getting it set up with @anacondainc.  https://buff.ly/2YN9JQK\u00a0pic.twitter.com/yjX62UC7rZ"
+    }, 
+    {
+      "account": {
+        "fullname": "Pycon Africa", 
+        "href": "/pyconafrica", 
+        "id": 927925400189235200
+      }, 
+      "date": "3:15 AM - 8 Aug 2019", 
+      "hashtags": [
+        "#python", 
+        "#pyconafrica", 
+        "#pythonghana"
+      ], 
+      "likes": 39, 
+      "replies": 1, 
+      "retweets": 14, 
+      "text": "so many cultural colors showcasing Ghana's cultural diversity @pyconafrica #python #pyconafrica #pythonghanapic.twitter.com/QEmEDrvdxK"
+    }, 
+    {
+      "account": {
+        "fullname": "Jenifer Millard", 
+        "href": "/JeniMillard", 
+        "id": 823005973
+      }, 
+      "date": "2:46 AM - 8 Aug 2019", 
+      "hashtags": [
+        "#astronomy", 
+        "#Space", 
+        "#galaxies", 
+        "#datascience", 
+        "#python", 
+        "#phdlife"
+      ], 
+      "likes": 99, 
+      "replies": 6, 
+      "retweets": 30, 
+      "text": "See them there green blobs?\nEvery.\nSingle.\nOne.\nIs.\nA.\nG A L A X Y. \n\nSome are nearby, some are billions of light years away.\n\nThe secrets to the history of the universe, buried in a few pixels on my screen. #astronomy #Space #galaxies #datascience #python #phdlifepic.twitter.com/q30psKIl6I"
+    }, 
+    {
+      "account": {
+        "fullname": "Pius Linnaeus", 
+        "href": "/LinnaeusPius", 
+        "id": 1157602150450642944
+      }, 
+      "date": "12:48 AM - 8 Aug 2019", 
+      "hashtags": [
+        "#PyConAfrica", 
+        "#PyConAfrica", 
+        "#Python"
+      ], 
+      "likes": 26, 
+      "replies": 0, 
+      "retweets": 12, 
+      "text": "Another great learning opportunity with the python community at the ongoing #PyConAfrica. It's great to learn from great minds and a wonderful community. Looking forward to learning more.\n#PyConAfrica #Python. pic.twitter.com/ziDjeSWzU7"
+    }, 
+    {
+      "account": {
+        "fullname": "Gifty Takyiwaa Aboagye@#PyConAfrica", 
+        "href": "/takyiwaa_gifty", 
+        "id": 983445176696832000
+      }, 
+      "date": "11:49 PM - 7 Aug 2019", 
+      "hashtags": [
+        "#PyConAfrica", 
+        "#DGPyconAfrica", 
+        "#Python"
+      ], 
+      "likes": 8, 
+      "replies": 0, 
+      "retweets": 5, 
+      "text": "Django got me like...this\n#PyConAfrica\n#DGPyconAfrica\n#Python pic.twitter.com/1GP28wh9b0"
+    }, 
+    {
+      "account": {
+        "fullname": "Samuel Hinton", 
+        "href": "/samreayh", 
+        "id": 956324885583704064
+      }, 
+      "date": "12:48 PM - 7 Aug 2019", 
+      "hashtags": [
+        "#python", 
+        "#sciencetwitter", 
+        "#astronomy"
+      ], 
+      "likes": 127, 
+      "replies": 4, 
+      "retweets": 51, 
+      "text": "A fun little visualisation from the goodness of matplotlib showing the position of individual galaxies on the sky. The cosmic web just visible! #python #sciencetwitter #astronomy \n\nSDSS (purple), 2df (red), WiggleZ (blue), GAMA (green), 6dF (yellow), and OzDES+SN (gold)pic.twitter.com/pPEOkMrPQi"
+    }, 
+    {
+      "account": {
+        "fullname": "Rebecca Vickery", 
+        "href": "/vickdata", 
+        "id": 704680369812054016
+      }, 
+      "date": "6:03 AM - 7 Aug 2019", 
+      "hashtags": [
+        "#python", 
+        "#machinelearning"
+      ], 
+      "likes": 462, 
+      "replies": 8, 
+      "retweets": 146, 
+      "text": "I have been working with classifiers a lot lately and looking for better ways to evaluate them. I have written up my review of four of the best #python libraries I've found for interpreting #machinelearning (yellowbrick, ELI5, MLxtend and Lime). https://tinyurl.com/y374aj2c\u00a0"
+    }, 
+    {
+      "account": {
+        "fullname": "Katherine Ognyanova", 
+        "href": "/Ognyanova", 
+        "id": 75641981
+      }, 
+      "date": "5:45 AM - 7 Aug 2019", 
+      "hashtags": [
+        "#github", 
+        "#rstats", 
+        "#python", 
+        "#compsocsci", 
+        "#sna", 
+        "#sciencetwitter"
+      ], 
+      "likes": 279, 
+      "replies": 2, 
+      "retweets": 88, 
+      "text": "Computational Social Science teaching materials: a GitHub collection compiled by @SAGEOceanTweets  http://bit.ly/2YIEOVP\u00a0 #github #rstats #python #compsocsci #sna #sciencetwitter pic.twitter.com/VxyFIp47nu"
+    }, 
+    {
+      "account": {
+        "fullname": "Rising Odegua \u00a0\ud83d\udee9\ufe0f#PyConAfrica", 
+        "href": "/risin_developer", 
+        "id": 406574362
+      }, 
+      "date": "1:09 AM - 7 Aug 2019", 
+      "hashtags": [
+        "#PyConAfrica", 
+        "#python"
+      ], 
+      "likes": 77, 
+      "replies": 8, 
+      "retweets": 12, 
+      "text": "Day 1: International Guest tour was super awesome \n\nDay 1 lesson: Accra is beautiful and the people are normal compared to Nigerians! \n#PyConAfrica #python pic.twitter.com/Rz1htT2kFc"
+    }, 
+    {
+      "account": {
+        "fullname": "Python Visual Studio Code", 
+        "href": "/pythonvscode", 
+        "id": 958940397996204032
+      }, 
+      "date": "4:24 PM - 6 Aug 2019", 
+      "hashtags": [
+        "#Python"
+      ], 
+      "likes": 345, 
+      "replies": 2, 
+      "retweets": 136, 
+      "text": "The August release of the #Python extension for \n@code is here!  Try out Jupyter Notebook cell debugging and check out improvements to auto-indentation and to the Python Language Server, as well as our new Insiders program. Learn more here:  https://devblogs.microsoft.com/python/python-in-visual-studio-code-august-2019-release/\u00a0\u2026pic.twitter.com/ybRIHwvC9I"
+    }, 
+    {
+      "account": {
+        "fullname": "Python Weekly", 
+        "href": "/PythonWeekly", 
+        "id": 373620985
+      }, 
+      "date": "11:00 AM - 6 Aug 2019", 
+      "hashtags": [
+        "#python"
+      ], 
+      "likes": 42, 
+      "replies": 0, 
+      "retweets": 11, 
+      "text": "httpx - A next generation HTTP client for Python.  https://buff.ly/2YF6VRD\u00a0 #python pic.twitter.com/pUKVa5OZvl"
+    }, 
+    {
+      "account": {
+        "fullname": "Randy Olson", 
+        "href": "/randal_olson", 
+        "id": 49413866
+      }, 
+      "date": "4:39 PM - 5 Aug 2019", 
+      "hashtags": [
+        "#Python"
+      ], 
+      "likes": 205, 
+      "replies": 4, 
+      "retweets": 45, 
+      "text": "#Python community in response to the MATLAB article: pic.twitter.com/hFoBNoVYwi"
+    }, 
+    {
+      "account": {
+        "fullname": "Randy Olson", 
+        "href": "/randal_olson", 
+        "id": 49413866
+      }, 
+      "date": "8:42 AM - 5 Aug 2019", 
+      "hashtags": [
+        "#Python", 
+        "#programming"
+      ], 
+      "likes": 305, 
+      "replies": 35, 
+      "retweets": 93, 
+      "text": "The MATLAB folks were a little late on their April Fools joke this year. #Python #programming\n https://www.mathworks.com/products/matlab/matlab-vs-python.html\u00a0\u2026pic.twitter.com/NWx8XtYThG"
+    }, 
+    {
+      "account": {
+        "fullname": "Kirk Borne", 
+        "href": "/KirkDBorne", 
+        "id": 534563976
+      }, 
+      "date": "8:32 AM - 5 Aug 2019", 
+      "hashtags": [
+        "#DataScience", 
+        "#abdsc", 
+        "#BigData", 
+        "#MachineLearning", 
+        "#Algorithms", 
+        "#BI", 
+        "#Statistics", 
+        "#DataViz", 
+        "#GIS", 
+        "#coding", 
+        "#Python", 
+        "#Rstats", 
+        "#DataScientists"
+      ], 
+      "likes": 218, 
+      "replies": 2, 
+      "retweets": 103, 
+      "text": "Introductory Guide to #DataScience:  http://bit.ly/2OEyOtj\u00a0\n\u2014\u2014\u2014\n#abdsc #BigData #MachineLearning #Algorithms #BI #Statistics #DataViz #GIS #coding #Python #Rstats #DataScientists\n\u2014\u2014\u2014\n+Recommended books:\n1) https://amzn.to/2KhCgWp\u00a0\n2) https://amzn.to/2YOBAzQ\u00a0\n3) https://amzn.to/2YHAjGM\u00a0pic.twitter.com/uBjlp1D5dZ"
+    }, 
+    {
+      "account": {
+        "fullname": "Changeset Consulting", 
+        "href": "/ChangesetLLC", 
+        "id": 4082164823
+      }, 
+      "date": "7:17 AM - 5 Aug 2019", 
+      "hashtags": [
+        "#Python"
+      ], 
+      "likes": 98, 
+      "replies": 8, 
+      "retweets": 79, 
+      "text": "#Python 2 reaches End of Life status on January 1, 2020. Lots of institutions haven't even HEARD about that, much less prepped for migration. So Changeset Consulting has just started working with the PSF to get the word out about the sunsetting:\n\n https://www.harihareswara.net/sumana/2019/08/05/0\u00a0\u2026pic.twitter.com/ARF8DBAehf"
+    }, 
+    {
+      "account": {
+        "fullname": "Loooorena \u00a0\ud83d\udc2f \"La Tigresa\" \u00a0\ud83d\udc2f Mesa @ #PyConAfrica", 
+        "href": "/loooorenanicole", 
+        "id": 21767394
+      }, 
+      "date": "10:42 AM - 4 Aug 2019", 
+      "hashtags": [
+        "#Python"
+      ], 
+      "likes": 83, 
+      "replies": 5, 
+      "retweets": 11, 
+      "text": "Friends that #Python together surf together.  @pyconafrica @marlene_zw @malgamvespic.twitter.com/QIcKl2Sd3Y"
+    }, 
+    {
+      "account": {
+        "fullname": "ITSolution", 
+        "href": "/ITSolut62078624", 
+        "id": 1106407722071646210
+      }, 
+      "date": "10:27 PM - 3 Aug 2019", 
+      "hashtags": [
+        "#java", 
+        "#csharp", 
+        "#php", 
+        "#Python", 
+        "#C", 
+        "#OOP", 
+        "#C", 
+        "#ios", 
+        "#swift", 
+        "#javascript"
+      ], 
+      "likes": 13, 
+      "replies": 0, 
+      "retweets": 15, 
+      "text": "Writing the first 90 percent of a computer program takes 90 percent of the time. The remaining ten percent also takes 90 percent of the time and the final touches also take 90 percent of the time.\n\u2013 N.J. Rubenking\n\n#java #csharp #php #Python #C++ #OOP #C #ios #swift #javascript pic.twitter.com/Az3hpAcEbT"
+    }, 
+    {
+      "account": {
+        "fullname": "Python Programmers", 
+        "href": "/python_devv", 
+        "id": 3314148722
+      }, 
+      "date": "6:25 PM - 10 Aug 2019", 
+      "hashtags": [
+        "#python", 
+        "#programming"
+      ], 
+      "likes": 24, 
+      "replies": 0, 
+      "retweets": 7, 
+      "text": "The Complete Guide to Socket Programming in Python\n\n\u261e  https://ift.tt/2Mbw0ll\u00a0\n#python #programmingpic.twitter.com/MFPU5iPcvv"
+    }, 
+    {
+      "account": {
+        "fullname": "Python Programmers", 
+        "href": "/python_devv", 
+        "id": 3314148722
+      }, 
+      "date": "4:20 PM - 10 Aug 2019", 
+      "hashtags": [
+        "#python", 
+        "#programming"
+      ], 
+      "likes": 16, 
+      "replies": 0, 
+      "retweets": 6, 
+      "text": "Analysing 1.4 billion rows with python\n\n\u261e  https://ift.tt/2MSSzdX\u00a0\n#python #programmingpic.twitter.com/98ni6pr7hb"
+    }, 
+    {
+      "account": {
+        "fullname": "Code Guru", 
+        "href": "/code__guru", 
+        "id": 3314202313
+      }, 
+      "date": "2:43 PM - 10 Aug 2019", 
+      "hashtags": [
+        "#python", 
+        "#programming"
+      ], 
+      "likes": 3, 
+      "replies": 0, 
+      "retweets": 2, 
+      "text": "Learn Python Django From Scratch\n\n\u261e  https://ift.tt/2UNXGO7\u00a0\n#python #programmingpic.twitter.com/pDBPPdXMZp"
+    }, 
+    {
+      "account": {
+        "fullname": "pyrrrr", 
+        "href": "/pyrael", 
+        "id": 23590990
+      }, 
+      "date": "11:28 AM - 10 Aug 2019", 
+      "hashtags": [
+        "#python"
+      ], 
+      "likes": 5, 
+      "replies": 0, 
+      "retweets": 3, 
+      "text": "Playing with some UV modifier in Cinema 4D #python pic.twitter.com/XaL6g4Lekl"
+    }, 
+    {
+      "account": {
+        "fullname": "Python Programmers", 
+        "href": "/PythonProgramz", 
+        "id": 752909334422560768
+      }, 
+      "date": "11:08 AM - 10 Aug 2019", 
+      "hashtags": [
+        "#python"
+      ], 
+      "likes": 2, 
+      "replies": 0, 
+      "retweets": 2, 
+      "text": "A Gentle Introduction to Python Programming - Lite\n\n\u261e  http://learnstartup.net/p/Bk43CHe-g?utm_source=&utm_campaign=\u00a0\u2026\n#python\n\nNtqRsb1JpRd pic.twitter.com/4QugbnVvjVpic.twitter.com/5nZAaCGHBN"
+    }, 
+    {
+      "account": {
+        "fullname": "Python Programming", 
+        "href": "/python_programm", 
+        "id": 729599119203827712
+      }, 
+      "date": "10:25 AM - 10 Aug 2019", 
+      "hashtags": [
+        "#python", 
+        "#programming"
+      ], 
+      "likes": 17, 
+      "replies": 0, 
+      "retweets": 10, 
+      "text": "Building a Gas Pump Scanner with OpenCV/Python/iOS\n\n\u261e  https://ift.tt/2YHvdiP\u00a0\n#python #programmingpic.twitter.com/jT29ymIrTN"
+    }, 
+    {
+      "account": {
+        "fullname": "codequs", 
+        "href": "/codequsdotcom", 
+        "id": 3307345782
+      }, 
+      "date": "10:23 AM - 10 Aug 2019", 
+      "hashtags": [
+        "#Python"
+      ], 
+      "likes": 2, 
+      "replies": 0, 
+      "retweets": 2, 
+      "text": "How to analyze arguments in Python\n\n\u261e  https://ift.tt/32mrbub\u00a0\n#Python pic.twitter.com/Z89SMYGjVN"
+    }, 
+    {
+      "account": {
+        "fullname": "MLWhiz", 
+        "href": "/MLWhiz", 
+        "id": 72127244
+      }, 
+      "date": "6:33 AM - 10 Aug 2019", 
+      "hashtags": [
+        "#python", 
+        "#FeatureSelection"
+      ], 
+      "likes": 4, 
+      "replies": 0, 
+      "retweets": 2, 
+      "text": "\"Here we use Lasso to select variables.\"  https://lttr.ai/GUBt\u00a0 #python #FeatureSelectionpic.twitter.com/qvQpV5G6Az"
+    }, 
+    {
+      "account": {
+        "fullname": "Python Planet", 
+        "href": "/python_planet", 
+        "id": 737930060968165377
+      }, 
+      "date": "5:03 AM - 10 Aug 2019", 
+      "hashtags": [
+        "#python", 
+        "#programming"
+      ], 
+      "likes": 4, 
+      "replies": 0, 
+      "retweets": 2, 
+      "text": "Build a Crypto Currency Portfolio App With Python\n\n\u261e  http://bit.ly/2M0GXpD\u00a0\n#python #programmingpic.twitter.com/SaZ9qIJXIA"
+    }, 
+    {
+      "account": {
+        "fullname": "Python Daily", 
+        "href": "/PythonDaily4U", 
+        "id": 737780123856838657
+      }, 
+      "date": "3:11 AM - 10 Aug 2019", 
+      "hashtags": [
+        "#Python"
+      ], 
+      "likes": 3, 
+      "replies": 0, 
+      "retweets": 0, 
+      "text": "Python Programming Fundamentals\n\n\u261e  https://ift.tt/2Ke65WN\u00a0\n#Python\n\nHkXsx_nv3E pic.twitter.com/aMc7kQDsmy"
+    }, 
+    {
+      "account": {
+        "fullname": "Winona Sharpe", 
+        "href": "/winnysharpe", 
+        "id": 90791142
+      }, 
+      "date": "2:34 AM - 10 Aug 2019", 
+      "hashtags": [
+        "#techup", 
+        "#python"
+      ], 
+      "likes": 5, 
+      "replies": 1, 
+      "retweets": 2, 
+      "text": "Let\u2019s do this then #techup #python pic.twitter.com/xtMkqgvzx8"
+    }, 
+    {
+      "account": {
+        "fullname": "Python Programmers", 
+        "href": "/python_devv", 
+        "id": 3314148722
+      }, 
+      "date": "1:04 AM - 10 Aug 2019", 
+      "hashtags": [
+        "#python", 
+        "#programming"
+      ], 
+      "likes": 18, 
+      "replies": 1, 
+      "retweets": 7, 
+      "text": "Getting Started with Python, Redis, and Nginx\n\n\u261e  https://ift.tt/2TqJQRK\u00a0\n#python #programmingpic.twitter.com/8Yfo5wMeTZ"
+    }, 
+    {
+      "account": {
+        "fullname": "Python Daily", 
+        "href": "/PythonDaily4U", 
+        "id": 737780123856838657
+      }, 
+      "date": "1:03 AM - 10 Aug 2019", 
+      "hashtags": [
+        "#Python"
+      ], 
+      "likes": 3, 
+      "replies": 0, 
+      "retweets": 1, 
+      "text": "Architecting Scalable Python Applications\n\n\u261e  https://ift.tt/2JcZTxD\u00a0\n#Python\n\nSJZjednD2V pic.twitter.com/DuFps3jdfe"
+    }, 
+    {
+      "account": {
+        "fullname": "Micro:bit Educational Foundation", 
+        "href": "/microbit_edu", 
+        "id": 763102211639537665
+      }, 
+      "date": "12:37 AM - 10 Aug 2019", 
+      "hashtags": [
+        "#python", 
+        "#microbit"
+      ], 
+      "likes": 70, 
+      "replies": 1, 
+      "retweets": 22, 
+      "text": "We have some exciting updates coming to the micro:bit Python Editor this year, try these out before anyone else by joining the Python beta testing programme #python #microbit  https://microbit.org/testing/#python\u00a0pic.twitter.com/Jv1TR6hYte"
+    }, 
+    {
+      "account": {
+        "fullname": "DataCamp", 
+        "href": "/DataCamp", 
+        "id": 1568606814
+      }, 
+      "date": "12:00 AM - 10 Aug 2019", 
+      "hashtags": [
+        "#SciPy", 
+        "#algebra", 
+        "#Python"
+      ], 
+      "likes": 53, 
+      "replies": 1, 
+      "retweets": 22, 
+      "text": "This #SciPy cheat sheet covers the basics of linear #algebra in #Python that you need to get started -  https://www.datacamp.com/community/blog/python-scipy-cheat-sheet\u00a0\u2026pic.twitter.com/hPRXkGOgRb"
+    }, 
+    {
+      "account": {
+        "fullname": "Joseph M", 
+        "href": "/jos3ph_m", 
+        "id": 1156343063117086720
+      }, 
+      "date": "11:21 PM - 9 Aug 2019", 
+      "hashtags": [
+        "#100DaysOfCode", 
+        "#Python"
+      ], 
+      "likes": 13, 
+      "replies": 0, 
+      "retweets": 7, 
+      "text": "Day 11: #100DaysOfCode I built an API based on plants, using their common name, scientific name and family genus. via @pybites @talkpython -  https://training.talkpython.fm/courses/explore_100days_web/100-days-of-web-in-python?s=pybites\u00a0\u2026 #Python"
+    }, 
+    {
+      "account": {
+        "fullname": "Python & Django", 
+        "href": "/django_tutorial", 
+        "id": 733580286844248064
+      }, 
+      "date": "11:20 PM - 9 Aug 2019", 
+      "hashtags": [
+        "#python", 
+        "#programming"
+      ], 
+      "likes": 7, 
+      "replies": 0, 
+      "retweets": 2, 
+      "text": "How To Get Started With Machine Learning In Python\n\n\u261e  http://bit.ly/2T4OKU8\u00a0\n#python #programmingpic.twitter.com/wQpnTSTztx"
+    }, 
+    {
+      "account": {
+        "fullname": "TechZ", 
+        "href": "/atechzz", 
+        "id": 737658006993674241
+      }, 
+      "date": "9:55 PM - 9 Aug 2019", 
+      "hashtags": [
+        "#Python", 
+        "#Kubernetes", 
+        "#Morioh"
+      ], 
+      "likes": 7, 
+      "replies": 0, 
+      "retweets": 5, 
+      "text": "Writing Your First Kubernetes Operator with Python and SDK\n\u261e  https://morioh.com/p/73743d9f62e3\u00a0\n#Python #Kubernetes #Moriohpic.twitter.com/HtWEuCB5DY"
+    }, 
+    {
+      "account": {
+        "fullname": "Python & Django", 
+        "href": "/django_tutorial", 
+        "id": 733580286844248064
+      }, 
+      "date": "9:50 PM - 9 Aug 2019", 
+      "hashtags": [
+        "#python", 
+        "#programming"
+      ], 
+      "likes": 5, 
+      "replies": 0, 
+      "retweets": 2, 
+      "text": "The uncompromising Python code formatter\n\n\u261e  http://bit.ly/31hiPmo\u00a0\n#python #programmingpic.twitter.com/ny2LHqLczB"
+    }
+  ]

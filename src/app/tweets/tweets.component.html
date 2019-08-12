@@ -1,0 +1,48 @@
+
+
+<div  class="panel panel-default">
+        <div class="panel-heading">
+<h5 class="title" >{{title}}</h5>
+                <!-- <form class="form-inline">
+                        <div class="form-group">
+                    <input  type="text" class="form-control searchfilter" name="filter" [(ngModel)]="filter" [placeholder]="placeholder"/>
+                  
+                </div>
+                    </form> -->
+                    <div class="row" >
+                    <div class="form-group col-xs-3">
+                         <div class="inner-addon right-addon">
+                          <i class="glyphicon glyphicon-search"></i>
+                          <input type="text"  class="form-control searchfilter" name="filter" [(ngModel)]="filter" [placeholder]="placeholder" />
+                        </div>
+                      </div>
+                </div>
+        </div>
+        <div  class="panel-body">
+           
+            <table  class="table">
+                <thead>
+                        <tr>
+                                <th>Tweet</th>
+                                <th>Likes</th>
+                                <th>Replies</th>
+                                <th>Retweets</th>
+                                <th>Hashtags</th>
+                                <th>Date</th>
+                              </tr>
+                </thead>
+               <tbody>
+                    <tr *ngFor="let tweet of tweets | slice: (page-1) * pageSize : (page-1) * pageSize + pageSize | search:filterproperty:tweets:filter">
+                            <td  ><p class="truncate" >{{tweet.text}}</p></td>
+                            <td>{{tweet.likes > 0 ? tweet.likes : '-' }}</td>
+                            <td>{{tweet.replies > 0 ? tweet.replies : '-'}}</td>
+                            <td>{{tweet.retweets > 0 ? tweet.retweets : '-' }}</td>
+                            <td>{{tweet.hashtags.length > 2 ? tweet.hashtags.slice(0, 2).join(' ') : tweet.hashtags.join(' ')}}</td>
+                            <td>{{tweet.date.split("-")[1] | date }}</td>
+                            </tr>
+               </tbody>
+              </table>
+              <ngb-pagination *ngIf="(tweets  | search:filterproperty:tweets:filter).length > 0" [(page)]="page" [pageSize]="pageSize" [maxSize]="10" [boundaryLinks]="false" [collectionSize]="(tweets  | search:filterproperty:tweets:filter).length"></ngb-pagination>
+          
+        </div>
+      </div>
